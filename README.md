@@ -5,7 +5,7 @@ Este es un portafolio creado para mostrar mi mas reciente proyecto creado con HT
 ##Autor -
 **Jose Fernando Alvarado Tapia**
 
-* [LinkedIn] (www.linkedin.com/in/alvaradofernando)
+* [LinkedIn](https://www.linkedin.com/in/alvaradofernando/)
 
 ##Instalacion
 Es recomendable usar el programa Visual Studios para la ejecucion de este programa.
